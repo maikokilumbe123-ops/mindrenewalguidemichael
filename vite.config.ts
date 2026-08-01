@@ -18,3 +18,4 @@ const config = defineConfig({
 })
 
 export default config
+<meta name="google-site-verification" content="7c1XlDdyEhBDILhPkFvxKQXSn6rZlmfYKVRt8rBBqnk" />
