@@ -13,3 +13,4 @@ export const getRouter = () => {
 
   return router
 }
+<meta name="google-site-verification" content="1q8gHMaA1ebvtilOwQDzZFpwvlmCRRb7lgtE_ITpA60" />
