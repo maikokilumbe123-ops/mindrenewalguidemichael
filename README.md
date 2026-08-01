@@ -1,38 +1,24 @@
 # MindRenewalGuide Publications
 
-A polished Swahili-language marketing site for MindRenewalGuide Publications, a Christian publisher combining biblical teaching with cognitive psychology. The site presents two digital books, a practical faith article, and direct WhatsApp/M-Pesa ordering.
+# Mind Renewal Guide by Michael Kilumbe
 
-## Technology
+Ebook ya Kikristo iliyoundwa kumsaidia Mkristo kujitambua na kulijua kusudi la Mungu maishani mwake.
 
-- TanStack Start and TanStack Router
-- React 19 and TypeScript
-- Tailwind CSS 4 with a custom editorial design system
-- Lucide icons
-- Netlify deployment through the TanStack Start adapter
+## 📚 Unachopata Ndani
+- **Kitabu 1**: Jitambue wewe ni nani
+- **Kitabu 2**: Hatua 5 za kulijua kusudi la Mungu
 
-## Local Development
+## 💰 Bei
+TSh 10,000/= kwa kitabu kimoja  
+Lipa kwa **M-Pesa: 0765169859**  
+Tuma muamala upate vitabu vyako kwa WhatsApp
 
-Install dependencies and start the development server:
+## 🌐 Tazama Tovuti Rasmi
+https://mindrenewalguidemichaelkilumbecom.netlify.app/
 
-```bash
-pnpm install
-pnpm dev
-```
+## ✍️ Mwandishi
+Michael Kilumbe
 
-The application is available at `http://localhost:3000` by default. For Netlify platform emulation, use:
-
-```bash
-netlify dev --port 8889
-```
-
-## Project Structure
-
-- `src/routes/index.tsx` — complete landing page content and book information
-- `src/routes/__root.tsx` — document shell and SEO metadata
-- `src/styles.css` — responsive visual system, animations, and book artwork
-- `public/` — static assets such as the favicon
-- `netlify.toml` — Netlify build and deployment configuration
-
-## Ordering Flow
-
-Purchase buttons open pre-filled WhatsApp conversations for the selected title. Payment instructions direct customers to the published M-Pesa number; no payment credentials or customer data are stored by the site.
+---
+**Maneno Muhimu**: Kusudi la Mungu, Kujitambua, Maisha ya Kikristo, Ebook Tanzania, Mind Renewal
+update READMe for SEO
