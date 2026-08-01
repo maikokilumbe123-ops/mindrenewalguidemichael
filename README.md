@@ -21,4 +21,3 @@ Michael Kilumbe
 
 ---
 **Maneno Muhimu**: Kusudi la Mungu, Kujitambua, Maisha ya Kikristo, Ebook Tanzania, Mind Renewal
-update READMe for SEO
